@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HttpUtils</string>
+    <string name="errNetWorkInfo">网络已断开连接...</string>
+</resources>
